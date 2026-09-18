@@ -7,9 +7,6 @@
 ![Image](http://nextwork.ai/positive_beige_noble_river_dolphin/uploads/aws-security-secretsmanager_r7s8t9u0)
 
 ---
-
-## Introducing Today's Project!
-
 In this project, I secured hardcoded credentials using AWS Secrets Manager.
 
 AWS Secrets Manager is a fully managed cloud service that helps you securely store, manage, and retrieve sensitive information like database credentials, API keys, OAuth tokens, and passwords. 
